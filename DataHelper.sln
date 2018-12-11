@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataHelper", "DataHelper\DataHelper.csproj", "{23301EC8-36FE-405B-816F-58DD17DBB822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23301EC8-36FE-405B-816F-58DD17DBB822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23301EC8-36FE-405B-816F-58DD17DBB822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23301EC8-36FE-405B-816F-58DD17DBB822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23301EC8-36FE-405B-816F-58DD17DBB822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
